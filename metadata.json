@@ -1,0 +1,6 @@
+{
+  "name": "새일센터 자체 직원 채용 분석 대시보드",
+  "description": "여성새로일하기센터(새일센터) 자체 직원의 입사서류를 공정하고 계량화된 지침(신뢰도 가중, 동점 처리, 근접군)에 기반하여 정밀 분석·채점하는 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
